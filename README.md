@@ -10,32 +10,32 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 1% Developer Fee for further Updates
 
 
-#Installation
-Go to the Kodi file manager.
-Click on "Add source"
-The path for the source is https://github.com/SandUhrGucker/duino-coin-kodi/ (Give it the name "DuinoCoinKodi").
-Go to "Addons"
-In Addons, install an addon from zip. When it asks for the location, select "DuinoCoinKodi", and install repository.DuinoCoinKodi-0.1.zip.
-Go back to Addons install, but this time, select "Install from repository"
-Select the "DuinoCoinKodi Repository"
-Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
+##Installation
+* Go to the Kodi file manager.
+* Click on "Add source"
+* The path for the source is [GitHub](https://github.com/SandUhrGucker/duino-coin-kodi/) (Give it the name "DuinoCoinKodi").
+* Go to "Addons"
+* In Addons, install an addon from zip. When it asks for the location, select "DuinoCoinKodi", and install repository.DuinoCoinKodi-0.1.zip.
+* Go back to Addons install, but this time, select "Install from repository"
+* Select the "DuinoCoinKodi Repository"
+* Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
 
 
-#Usage
-1. You need to create a Wallet on duinocoin.com to recaive your Money
-2. Just enter your Wallet-Name in the mining-Configuration
-3. Choose a charity/Non-profit organisation you want to support in the mining-Configuration
-4. Choose the Time when the screensaver/miner should begin mining
+##Usage
+* You need to create a Wallet on duinocoin.com to recaive your Money
+* Just enter your Wallet-Name in the mining-Configuration
+* Choose a charity/Non-profit organisation you want to support in the mining-Configuration
+* Choose the Time when the screensaver/miner should begin mining
 
-You can always look at your Amount of Coins and the Speed of the miner in your Duino web-wallet: https://wallet.duinocoin.com/
+You can always look at your Amount of Coins and the Speed of the miner in your Duino web-wallet: [DuinoCoin Webwallet](https://wallet.duinocoin.com/)
 
-#Prerequirements
-Kodi 18/19+ (python 3 support)
+##Prerequirements
+* Kodi 18/19+ (python 3 support)
 
 
 Enjoy!
 <2021> by SandUhrGucker.
 
-Feel free to ask any questions on the Duino Discord Channel: https://discord.gg/kvBkccy
+Feel free to ask any questions on the Duino Discord Channel: [Discord](https://discord.gg/kvBkccy)
 
-More Info about Duino-Coin and Webmallet: www.duinocoin.com
+More Info about Duino-Coin and Webmallet: [Duino Coin Website](www.duinocoin.com)
