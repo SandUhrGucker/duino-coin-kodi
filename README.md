@@ -15,9 +15,9 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 * Click on "Add source"
 * The path for the source is [GitHub](https://github.com/SandUhrGucker/duino-coin-kodi/) (Give it the name "DuinoCoinKodi").
 * Go to "Addons"
-* In Addons, install an addon from zip. When it asks for the location, select "DuinoCoinKodi", and install repository.DuinoCoinKodi-0.1.zip.
-* Go back to Addons install, but this time, select "Install from repository"
-* Select the "DuinoCoinKodi Repository"
+* In Addons, install an addon from zip. When it asks for the location, select **"DuinoCoinKodi"**, and install **repository.DuinoCoinKodi-0.1.zip**
+* Go back to Addons install, but this time, select **"Install from repository"**
+* Select the **"DuinoCoinKodi Repository"**
 * Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
 
 
