@@ -9,9 +9,8 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 1% to Charity Organisations (You can choose wich)
 1% Developer Fee for further Updates
 
-============
-Installation
-============
+
+#Installation
 Go to the Kodi file manager.
 Click on "Add source"
 The path for the source is https://github.com/SandUhrGucker/duino-coin-kodi/ (Give it the name "DuinoCoinKodi").
@@ -22,9 +21,7 @@ Select the "DuinoCoinKodi Repository"
 Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
 
 
-===========
-Usage
-===========
+#Usage
 1. You need to create a Wallet on duinocoin.com to recaive your Money
 2. Just enter your Wallet-Name in the mining-Configuration
 3. Choose a charity/Non-profit organisation you want to support in the mining-Configuration
@@ -32,8 +29,7 @@ Usage
 
 You can always look at your Amount of Coins and the Speed of the miner in your Duino web-wallet: https://wallet.duinocoin.com/
 
-===========
-Prerequirements
+#Prerequirements
 Kodi 18/19+ (python 3 support)
 
 
