@@ -22,7 +22,7 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 
 
 ##Usage
-* You need to create a Wallet on duinocoin.com to recaive your Money
+* You need to create a Wallet on duinocoin.com to receive your Money
 * Just enter your Wallet-Name in the mining-Configuration
 * Choose a charity/Non-profit organisation you want to support in the mining-Configuration
 * Choose the Time when the screensaver/miner should begin mining
@@ -38,4 +38,4 @@ Enjoy!
 
 Feel free to ask any questions on the Duino Discord Channel: [Discord](https://discord.gg/kvBkccy)
 
-More Info about Duino-Coin and Webmallet: [Duino Coin Website](www.duinocoin.com)
+More Info about Duino-Coin and Webwallet: [Duino Coin Website](www.duinocoin.com)
