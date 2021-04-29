@@ -1,4 +1,4 @@
-# duino-coin-kodi v0.1
+# Duco miner for Kodi Mediacenter addon v0.1
 A Kodi Screensaver which mines Doino Coins (Work in Progress) **UNUSABLE** actual not working!
 
 This is a Duco Miner for Kodi (18/19+).
