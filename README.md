@@ -42,17 +42,16 @@ More Info about Duino-Coin and Webwallet: [Duino Coin Website](www.duinocoin.com
 
 ##Changelog
 0.1 
-Mining works 
-Fix amount of cores
+* Mining works 
+* Fix amount of cores
 
 ##Todo:
-Donation included
-
-Infoline better list format
-Donation radiobutton
-Multithread/core
-Temp in infoline(windows)
-Verify other kodi versions compatibility
-Github project design/doku update
-Port addon to other kodi forks/clones
-Fix Mookup logo and screenshots
+* Donation included
+* Infoline better list format
+* Donation radiobutton
+* Multithread/core
+* Temp in infoline(windows)
+* Verify other kodi versions compatibility
+* Github project design/doku update
+* Port addon to other kodi forks/clones
+* Fix Mookup logo and screenshots
