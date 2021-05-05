@@ -1,5 +1,12 @@
-# Duco miner for Kodi Mediacenter addon v0.1
-A Kodi Screensaver which mines Doino Coins (Work in Progress) **UNUSABLE** actual not working!
+# Duco miner for Kodi Mediacenter addon v0.3 (1st Release to Public)
+A Kodi Screensaver which mines Doino Coins.
+
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install1.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install2.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install3.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install4.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install5.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Running.jpg = 500x400)
 
 This is a Duco Miner for Kodi (18/19+).
 
@@ -29,9 +36,13 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 
 You can always look at your Amount of Coins and the Speed of the miner in your Duino web-wallet: [DuinoCoin Webwallet](https://wallet.duinocoin.com/)
 
+##Known Bugs
+* Only run with a valid UserWalledID - please double check.
+
 ##Prerequirements
 * Kodi 18/19+ (python 3 support)
 
+Schould be compatibe to CoreELEC, LibreELEC and OSMC - Feedback appreciated!
 
 Enjoy!
 <2021> by SandUhrGucker.
@@ -45,13 +56,16 @@ More Info about Duino-Coin and Webwallet: [Duino Coin Website](www.duinocoin.com
 * Mining works 
 * Fix amount of cores
 
-##Todo:
+0.2 
 * Donation included
 * Infoline better list format
-* Donation radiobutton
+
+0.3
+* Github project design/doku update
+* Fix Mookup logo and screenshots
+
+##Todo:
 * Multithread/core
 * Temp in infoline(windows)
 * Verify other kodi versions compatibility
-* Github project design/doku update
-* Port addon to other kodi forks/clones
-* Fix Mookup logo and screenshots
+
