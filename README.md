@@ -21,6 +21,7 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 * Go back to Addons install, but this time, select **"Install from repository"**
 * Select the **"DuinoCoinKodi Repository"**
 * Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
+* In your Kodi System-Settings->Interface enable Screensaver (Duco-Coin Screensaver), disable "Screen fade to black".
 Here some Screenshots about the Install process:
 
 <img src="https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install1.jpg" width="300"><img src="https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install2.jpg" width="300">
