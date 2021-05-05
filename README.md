@@ -1,12 +1,12 @@
 # Duco miner for Kodi Mediacenter addon v0.3 (1st Release to Public)
 A Kodi Screensaver which mines Doino Coins.
 
-![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install1.jpg = 300x200)
-![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install2.jpg = 300x200)
-![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install3.jpg = 300x200)
-![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install4.jpg = 300x200)
-![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Install5.jpg = 300x200)
-![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/images/Running.jpg = 500x400)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/Images/Install1.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/Images/Install2.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/Images/Install3.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/Images/Install4.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/Images/Install5.jpg = 300x200)
+![](https://raw.githubusercontent.com/SandUhrGucker/duino-coin-kodi/Images/Running.jpg = 500x400)
 
 This is a Duco Miner for Kodi (18/19+).
 
