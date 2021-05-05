@@ -7,8 +7,7 @@ This is a Duco Miner for Kodi (18/19+).
 
 Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on simple microcontrollers like Arduinos/ESP and other low performance Devices (like smart TVs).
 
-98% of your mining reward goes directly to your Wallet!
-1% to Charity Organisations (You can choose wich)
+99% of your mining reward goes directly to your Wallet!
 1% Developer Fee for further Updates
 
 
