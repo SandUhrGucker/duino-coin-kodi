@@ -1,4 +1,4 @@
-# Duco miner for Kodi Mediacenter addon v0.3 (1st release to public)
+# Duco miner for Kodi Mediacenter addon v0.3 (1st public release)
 A Kodi Screensaver which mines Doino Coins.
 
 ![Running](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Running.jpg?raw=true)
