@@ -23,9 +23,9 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 * Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
 Here some Screenshots about the Install process:
 
-![Install1](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install1.jpg?raw=true | width=300)|![Install2](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install2.jpg?raw=true | width=300)
-![Install3](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install3.jpg?raw=true | width=300)|![Install4](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install4.jpg?raw=true | width=300)
-![Install5](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install5.jpg?raw=true | width=300)
+<img src="https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install1.jpg" width="300"><img src="https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install2.jpg" width="300">
+<img src="https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install3.jpg" width="300"><img src="https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install4.jpg" width="300">
+<img src="https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install5.jpg" width="300">
 
 ##Usage
 * You need to create a Wallet on duinocoin.com to receive your Money
