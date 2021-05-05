@@ -1,11 +1,6 @@
 # Duco miner for Kodi Mediacenter addon v0.3 (1st Release to Public)
 A Kodi Screensaver which mines Doino Coins.
 
-![Install1](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install1.jpg?raw=true)
-![Install2](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install2.jpg?raw=true)
-![Install3](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install3.jpg?raw=true)
-![Install4](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install4.jpg?raw=true)
-![Install5](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install5.jpg?raw=true)
 ![Running](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Running.jpg?raw=true)
 
 This is a Duco Miner for Kodi (18/19+).
@@ -26,7 +21,11 @@ Its for cyptomining on smart-TVs. The Duco Coin is a crypto currency minded on s
 * Go back to Addons install, but this time, select **"Install from repository"**
 * Select the **"DuinoCoinKodi Repository"**
 * Launch Kodi >> Add-ons >> Get More >> .. >> Install from zip file
+Here some Screenshots about the Install process:
 
+![Install1](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install1.jpg?raw=true | width=300)|![Install2](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install2.jpg?raw=true | width=300)
+![Install3](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install3.jpg?raw=true | width=300)|![Install4](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install4.jpg?raw=true | width=300)
+![Install5](https://github.com/SandUhrGucker/duino-coin-kodi/blob/main/Images/Install5.jpg?raw=true | width=300)
 
 ##Usage
 * You need to create a Wallet on duinocoin.com to receive your Money
