@@ -1,3 +1,4 @@
+🔴🔴🔴 THIS PROJECT IS DEPRECATED 🔴🔴🔴
 # Duco miner for Kodi Mediacenter addon v0.3 (1st public release)
 A Kodi Screensaver which mines Doino Coins.
 
